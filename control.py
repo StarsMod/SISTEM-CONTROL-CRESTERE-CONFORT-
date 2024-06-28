@@ -12,14 +12,7 @@ def fixNota(nota):
     return nota
 
 config = {
-  "apiKey": "AIzaSyC5haWIDbb7vexyk9pdsVUn4A66CYsyUaQ",
-  "authDomain": "licenta-4884e.firebaseapp.com",
-  "databaseURL": "https://licenta-4884e-default-rtdb.firebaseio.com",
-  "projectId": "licenta-4884e",
-  "storageBucket": "licenta-4884e.appspot.com",
-  "messagingSenderId": "762055110552",
-  "appId": "1:762055110552:web:9cedbeac9b9cbd11f685ed",
-  "measurementId": "G-6KW0J968FB"
+  
 };
 
 
